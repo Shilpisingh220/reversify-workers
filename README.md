@@ -1,1 +1,8 @@
-# reversify-workers
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
